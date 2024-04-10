@@ -15,8 +15,8 @@ def word(st):
   return s
 
 def main():
-  word("Mathematics is the music of reason.")
-  print(word)
+  
+  print(word("Mathematics is the music of reason."))
 
 
 if __name__ == "__main__":
